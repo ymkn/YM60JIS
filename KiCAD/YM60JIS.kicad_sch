@@ -2193,6 +2193,10 @@
     (stroke (width 0) (type default))
     (uuid 84d1b66e-53b9-4783-9d1b-e8c1cf673302)
   )
+  (wire (pts (xy 186.69 189.23) (xy 193.04 189.23))
+    (stroke (width 0) (type default))
+    (uuid 87b373a2-aeb3-441c-984d-b9888797b463)
+  )
   (wire (pts (xy 148.59 237.49) (xy 148.59 238.76))
     (stroke (width 0) (type default))
     (uuid 87f8bc87-902f-482b-a415-b473479dbb2d)
@@ -2284,10 +2288,6 @@
   (wire (pts (xy 205.74 160.02) (xy 205.74 162.56))
     (stroke (width 0) (type default))
     (uuid a310e25d-47be-4643-85fd-ad20cdd85205)
-  )
-  (wire (pts (xy 186.69 189.23) (xy 193.04 189.23))
-    (stroke (width 0) (type default))
-    (uuid a9023439-541a-432a-a34c-082569890bfa)
   )
   (wire (pts (xy 24.13 261.62) (xy 24.13 257.81))
     (stroke (width 0) (type default))
@@ -3178,7 +3178,7 @@
     (pin "1" (uuid 36b643cb-2298-411f-a122-ebc6b2b9b4a3))
     (pin "2" (uuid e01ffa8f-4319-42e3-9e13-325c09b4bdd1))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D14") (unit 1)
         )
@@ -3218,7 +3218,7 @@
     (pin "1" (uuid ef8334ce-089d-416c-875f-b7bc589df6e6))
     (pin "2" (uuid 6889c239-d2d4-479d-bfd0-3f383c0fb03a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D37") (unit 1)
         )
@@ -3248,7 +3248,7 @@
     )
     (pin "1" (uuid 1ec6586f-c720-4d7d-b5c7-b5ea033e93f0))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR017") (unit 1)
         )
@@ -3288,7 +3288,7 @@
     (pin "1" (uuid 7147fa99-a688-47c7-909b-d404a60c4070))
     (pin "2" (uuid c27dbbdf-6076-4ec0-a578-3a4193be7d92))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D35") (unit 1)
         )
@@ -3328,7 +3328,7 @@
     (pin "1" (uuid a5a46825-c2ef-40d3-aad9-f025846f96d8))
     (pin "2" (uuid a2e693ef-50c7-4e24-8cc5-b4540633227a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D45") (unit 1)
         )
@@ -3368,7 +3368,7 @@
     (pin "1" (uuid 75d967f0-9c30-4cfa-8b69-3cd75c53416c))
     (pin "2" (uuid f353bcca-833f-4cd1-a943-cf7a43a53c02))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D49") (unit 1)
         )
@@ -3408,7 +3408,7 @@
     (pin "1" (uuid e5a7a4f5-6aeb-4a3a-8931-71dc5decaa24))
     (pin "2" (uuid 2cdac4c5-1468-4971-bd30-f138972a759e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D17") (unit 1)
         )
@@ -3448,7 +3448,7 @@
     (pin "1" (uuid a87f3363-0dbc-4aa1-90f6-56b8df7cdfea))
     (pin "2" (uuid b3a6c7e1-2516-4c61-bf52-a768b20851b2))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D50") (unit 1)
         )
@@ -3488,7 +3488,7 @@
     (pin "1" (uuid 7211f8bf-3ee7-44f1-9020-9baf4f0d7f17))
     (pin "2" (uuid 5a98e6c8-0847-4670-869d-8f3719512dc4))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D66") (unit 1)
         )
@@ -3528,7 +3528,7 @@
     (pin "1" (uuid d311596e-03d6-4a94-84c7-67aa06bfd7ea))
     (pin "2" (uuid 451a6af8-c84c-4edf-a1df-a9c3c37a0f6e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D65") (unit 1)
         )
@@ -3558,7 +3558,7 @@
     )
     (pin "1" (uuid bd6d341f-e371-4535-8742-f5968b37b871))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR020") (unit 1)
         )
@@ -3598,7 +3598,7 @@
     (pin "1" (uuid 3dd9ef88-1404-4156-bb61-80064c453d4a))
     (pin "2" (uuid 8c3fedb2-ad83-432f-beea-c2dfe3e3a829))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D47") (unit 1)
         )
@@ -3638,7 +3638,7 @@
     (pin "1" (uuid b1db8cb7-d3c4-412f-8207-fba64e6dca9e))
     (pin "2" (uuid 7db33afd-9a12-4739-b1d0-46b8832dd2d4))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D15") (unit 1)
         )
@@ -3668,7 +3668,7 @@
     )
     (pin "1" (uuid 2b755972-cafa-4c5f-b29e-20f3a13e1be6))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR016") (unit 1)
         )
@@ -3708,7 +3708,7 @@
     (pin "1" (uuid d9e52294-e463-407f-a8c4-1f714e312647))
     (pin "2" (uuid 0a8185f4-5aeb-42e9-b557-0d6ba36bc7a8))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D57") (unit 1)
         )
@@ -3742,7 +3742,7 @@
     (pin "1" (uuid b94b49b2-4ec2-47d0-845c-0d5fa20453e9))
     (pin "2" (uuid b9ec8042-f9d2-4296-b9da-f378392bd572))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "R3") (unit 1)
         )
@@ -3772,7 +3772,7 @@
     )
     (pin "1" (uuid b3bfd65b-8c29-4dc4-9163-1fb6106a0bc2))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR04") (unit 1)
         )
@@ -3801,7 +3801,7 @@
     (pin "1" (uuid 27f1d2e0-eaf5-4a92-9ae5-33ec344afa7a))
     (pin "2" (uuid 1ace1534-a52d-4d72-ac3a-9f2226f50b2d))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C2") (unit 1)
         )
@@ -3841,7 +3841,7 @@
     (pin "1" (uuid 3d101e5e-bf27-465b-8bb9-2c6acfdc0064))
     (pin "2" (uuid 0c498d6d-8288-41a4-bbb9-0c07d5bb0127))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D43") (unit 1)
         )
@@ -3881,7 +3881,7 @@
     (pin "1" (uuid df5e1c8b-0b44-40c3-b711-6c178f4078cc))
     (pin "2" (uuid 6c414313-d9af-471b-99a0-e034de8a125b))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D13") (unit 1)
         )
@@ -3911,7 +3911,7 @@
     )
     (pin "1" (uuid a5ed3f76-b3e6-4c24-98a0-83bc7f8cf083))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR014") (unit 1)
         )
@@ -3951,7 +3951,7 @@
     (pin "1" (uuid 39813b0e-d27e-4b89-91d1-58cb1c91a2b6))
     (pin "2" (uuid 7d685083-1a0f-4aa3-a7af-66fed04e1888))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D9") (unit 1)
         )
@@ -3985,7 +3985,7 @@
     (pin "1" (uuid 57c0ec1b-1923-4416-bdd2-a3b3570fda86))
     (pin "2" (uuid a68aed5d-01cb-4315-94d9-d24c89d2cb52))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW7") (unit 1)
         )
@@ -4025,7 +4025,7 @@
     (pin "1" (uuid ea80e181-476a-4136-8c1c-5d0bdfc08304))
     (pin "2" (uuid 01f0be2b-ba4a-49d6-8e3a-d0e871d0c95a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D62") (unit 1)
         )
@@ -4059,7 +4059,7 @@
     (pin "1" (uuid f5723e6b-99f7-49bd-97db-bf62132bc29f))
     (pin "2" (uuid 49903127-1710-42a9-af26-868a7e24f443))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW3") (unit 1)
         )
@@ -4099,7 +4099,7 @@
     (pin "1" (uuid 0c657ee8-0f3a-4059-af67-eff8105f3b0d))
     (pin "2" (uuid 66373e4c-96e2-4139-9297-94e3abf1d05b))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D61") (unit 1)
         )
@@ -4139,7 +4139,7 @@
     (pin "1" (uuid f139c5ad-1df8-40c2-8f37-6bf9d8fbcb43))
     (pin "2" (uuid 75809fec-a5e3-41fe-bdec-505fc86f731e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D26") (unit 1)
         )
@@ -4173,7 +4173,7 @@
     (pin "1" (uuid 1ccba354-aef2-496e-94ce-0a43fc19e1e0))
     (pin "2" (uuid 38675d77-23cf-49de-9cf0-6e2905f952a4))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW21") (unit 1)
         )
@@ -4207,7 +4207,7 @@
     (pin "1" (uuid ea3b5504-f5aa-4785-a2cd-dc1b3eee147f))
     (pin "2" (uuid fdcec957-94c0-4140-bf21-da0b8ed0345e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW13") (unit 1)
         )
@@ -4237,7 +4237,7 @@
     )
     (pin "1" (uuid 3e14675c-2fb7-42fd-85c4-918391c676e0))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR033") (unit 1)
         )
@@ -4271,7 +4271,7 @@
     (pin "1" (uuid 0e437e3a-d271-44ce-8afc-d40718adbf31))
     (pin "2" (uuid 0b2c76ed-06b9-44aa-b84d-116ba686e1a8))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW58") (unit 1)
         )
@@ -4305,7 +4305,7 @@
     (pin "1" (uuid 15d4b71e-74e5-4aa8-92a7-f45c227d5e50))
     (pin "2" (uuid 658da24e-27d0-477b-b122-8a37407c554f))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW6") (unit 1)
         )
@@ -4339,7 +4339,7 @@
     (pin "1" (uuid 9894fad1-70d0-43a9-bacf-00ca8a0eac07))
     (pin "2" (uuid 0e3a9bf8-2f49-4cc5-8f35-7180f04fef9e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "R1") (unit 1)
         )
@@ -4373,7 +4373,7 @@
     (pin "1" (uuid a6550dac-3bcc-4130-8ece-6a58048b5a57))
     (pin "2" (uuid d3e2c97f-e7c2-4d36-8be1-f1729d0cb933))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW11") (unit 1)
         )
@@ -4403,7 +4403,7 @@
     )
     (pin "1" (uuid c74e9e43-42a6-43fa-a361-4b2746c59c27))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR030") (unit 1)
         )
@@ -4443,7 +4443,7 @@
     (pin "1" (uuid cdd6fa00-02c2-4802-bd1b-96a140aa1d60))
     (pin "2" (uuid a78a4bc3-10b7-435c-a4de-c452915a886e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D29") (unit 1)
         )
@@ -4477,7 +4477,7 @@
     (pin "1" (uuid 73bc32f6-5dde-4cbf-bc95-f851ac57b48c))
     (pin "2" (uuid 2d02ba9a-22f0-4954-80fd-eeb6ad133cab))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW8") (unit 1)
         )
@@ -4517,7 +4517,7 @@
     (pin "1" (uuid 7d0c0026-d7c7-4b88-812b-5453b85d01f0))
     (pin "2" (uuid fd090cc3-1132-40f0-aaf8-e2d741360c55))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D56") (unit 1)
         )
@@ -4547,7 +4547,7 @@
     )
     (pin "1" (uuid 614d1c29-8644-42a1-ad4e-91cac2737866))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR012") (unit 1)
         )
@@ -4577,7 +4577,7 @@
     )
     (pin "1" (uuid 259db38c-2c52-4875-90ea-7202e36dc370))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR034") (unit 1)
         )
@@ -4611,7 +4611,7 @@
     (pin "1" (uuid 34202dcd-6d6a-47e5-8d9f-a377909e06b7))
     (pin "2" (uuid c741b0d0-14aa-45b9-995a-82ce584e8ed2))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW48") (unit 1)
         )
@@ -4647,7 +4647,7 @@
     (pin "3" (uuid 9a55f683-76ed-4b3b-8264-98b99347872b))
     (pin "4" (uuid 3a367dfb-61a9-4567-b452-8c558602be50))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "Y1") (unit 1)
         )
@@ -4691,7 +4691,7 @@
     (pin "B9" (uuid cfbb8c47-853e-4172-8271-f64b9adef40b))
     (pin "S1" (uuid c0017f7e-2194-4313-8722-3ced5db605cf))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "J1") (unit 1)
         )
@@ -4721,7 +4721,7 @@
     )
     (pin "1" (uuid 2d6dd0bb-d08e-4492-a66c-26509fc49e27))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR026") (unit 1)
         )
@@ -4751,7 +4751,7 @@
     )
     (pin "1" (uuid bf129dcf-3a92-4cf7-a217-7c722e38f183))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR043") (unit 1)
         )
@@ -4781,7 +4781,7 @@
     )
     (pin "1" (uuid e7a31af9-e0b9-4ace-ae11-9ce5d2bc65a5))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR038") (unit 1)
         )
@@ -4815,7 +4815,7 @@
     (pin "1" (uuid aae6da2d-14f0-4a80-b5d7-a44b77765979))
     (pin "2" (uuid c85aa137-3761-4421-b298-d3e9bfec5eb0))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C13") (unit 1)
         )
@@ -4855,7 +4855,7 @@
     (pin "1" (uuid 7c33c3f3-5deb-4972-b454-4539168f9b1e))
     (pin "2" (uuid 7d4d8511-e981-4eda-91ef-360a45938827))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D5") (unit 1)
         )
@@ -4885,7 +4885,7 @@
     )
     (pin "1" (uuid 0a432604-f284-4e72-9bb7-915ff6a6b001))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR03") (unit 1)
         )
@@ -4920,7 +4920,7 @@
     (pin "1" (uuid e5f4d350-cbb6-4bab-94b2-7a3063b6b097))
     (pin "2" (uuid d95e7945-27d7-45c6-948b-8e32628c30f1))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D39") (unit 1)
         )
@@ -4950,7 +4950,7 @@
     )
     (pin "1" (uuid ee312a25-be41-42b0-b40b-833a84c4e96d))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR08") (unit 1)
         )
@@ -4984,7 +4984,7 @@
     (pin "1" (uuid 665f7a35-3ff2-487b-9734-7101c1e117a3))
     (pin "2" (uuid 8a153096-76fe-4354-b233-e06ea8aecaf1))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW65") (unit 1)
         )
@@ -5073,7 +5073,7 @@
     (pin "8" (uuid 7cfdd63b-aa19-4e71-bbe9-676829bc8ba0))
     (pin "9" (uuid baa8369c-6876-43d6-9719-cb4a8bd14fc0))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "U3") (unit 1)
         )
@@ -5107,7 +5107,7 @@
     (pin "1" (uuid 7a2e9041-2a88-48c4-a4a9-51d1e96f0d95))
     (pin "2" (uuid 80ac6b43-76d4-476c-8493-277c4972fa93))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C9") (unit 1)
         )
@@ -5141,7 +5141,7 @@
     (pin "1" (uuid 97978fc3-3990-443a-a0f8-4bc3c6ce13e1))
     (pin "2" (uuid 916ca3bf-5cb7-43c0-970d-b5f6324f483c))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW61") (unit 1)
         )
@@ -5175,7 +5175,7 @@
     (pin "1" (uuid 79b04721-c8b4-4e68-af75-844fea783788))
     (pin "2" (uuid 762cd178-eb7f-4b14-a7b8-e441bfd813e9))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW4") (unit 1)
         )
@@ -5205,7 +5205,7 @@
     )
     (pin "1" (uuid 9ac2a1c3-b81f-4e7e-aff5-6228153e876c))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR010") (unit 1)
         )
@@ -5235,7 +5235,7 @@
     )
     (pin "1" (uuid 790fc343-46ab-42ed-a15f-077e920e82c3))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR015") (unit 1)
         )
@@ -5275,7 +5275,7 @@
     (pin "1" (uuid 4b0316de-b361-42b7-a7aa-0a1d89519f9d))
     (pin "2" (uuid 6e7a89cd-21db-45eb-8080-f12eafad611f))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D63") (unit 1)
         )
@@ -5315,7 +5315,7 @@
     (pin "1" (uuid 36b52119-8b57-4724-9c32-5f760975862a))
     (pin "2" (uuid a771e36e-9aa2-4899-ad20-4647fa68d2d9))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D3") (unit 1)
         )
@@ -5349,7 +5349,7 @@
     (pin "1" (uuid 06a6088c-4ac2-4448-adc7-3335e3296d26))
     (pin "2" (uuid c00df5c4-d6f3-4ab6-bf79-0eab6f38deff))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW59") (unit 1)
         )
@@ -5383,7 +5383,7 @@
     (pin "1" (uuid 8cccf389-c15f-4af7-8eca-fb4388325e74))
     (pin "2" (uuid b63c21f4-47df-4546-b523-8451a3311db5))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C5") (unit 1)
         )
@@ -5413,7 +5413,7 @@
     )
     (pin "1" (uuid b27ee3d1-f997-4590-8d81-373db17a3dbf))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR039") (unit 1)
         )
@@ -5447,7 +5447,7 @@
     (pin "1" (uuid b6c5ceb3-f24f-46ce-8927-7086367fd220))
     (pin "2" (uuid 9cc156f2-daf3-4374-a6be-672a58ea169a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW39") (unit 1)
         )
@@ -5481,7 +5481,7 @@
     (pin "1" (uuid b0e76aab-2580-4175-ac9a-536448655301))
     (pin "2" (uuid 89942267-8521-4766-b9ba-ce9e1c5b6d38))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C16") (unit 1)
         )
@@ -5515,7 +5515,7 @@
     (pin "1" (uuid 895f1ba2-e963-4981-b90f-ac014ba817c7))
     (pin "2" (uuid 026d06ae-7be8-471e-9e7b-4202e5b6827f))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "BTN1") (unit 1)
         )
@@ -5549,7 +5549,7 @@
     (pin "1" (uuid bb56e5c7-ed89-4140-8512-2837b47d7062))
     (pin "2" (uuid 8803f2bd-e33a-44f9-abe2-ea190c7c051b))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW25") (unit 1)
         )
@@ -5583,7 +5583,7 @@
     (pin "1" (uuid 7a9000a0-2c02-402c-8e7d-9bec5f3c0eb6))
     (pin "2" (uuid 62007992-0f89-4913-b7bb-d7c7c73da89f))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C17") (unit 1)
         )
@@ -5613,7 +5613,7 @@
     )
     (pin "1" (uuid 3e6beb06-887c-409c-82fc-09ba272f1c60))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR07") (unit 1)
         )
@@ -5647,7 +5647,7 @@
     (pin "1" (uuid d7ff58d5-c7cd-4f18-ac44-adf7088aa992))
     (pin "2" (uuid 4caf72c3-53c9-49e1-bfea-8cb829ccbbeb))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW29") (unit 1)
         )
@@ -5687,7 +5687,7 @@
     (pin "1" (uuid 7e3defdb-d57a-4fcb-9b08-a5b23ed38de6))
     (pin "2" (uuid c5199eee-ced3-45b0-aed7-fe445a0c3573))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D59") (unit 1)
         )
@@ -5727,7 +5727,7 @@
     (pin "1" (uuid 3da1c73e-2236-4912-9fa2-331a4c09bd12))
     (pin "2" (uuid 1adaf1a1-0c7e-4503-969f-f4d8fe6c6138))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D52") (unit 1)
         )
@@ -5761,7 +5761,7 @@
     (pin "1" (uuid 560c9d23-04b5-4900-a7b6-16f5ef700470))
     (pin "2" (uuid e71595bf-780c-4434-b804-c0e78879b5ee))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW9") (unit 1)
         )
@@ -5791,7 +5791,7 @@
     )
     (pin "1" (uuid 5a9ca62c-675d-4deb-97c5-dad41a47a512))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR044") (unit 1)
         )
@@ -5825,7 +5825,7 @@
     (pin "1" (uuid 7035ed05-9555-452e-b810-0d957655f9a8))
     (pin "2" (uuid acc58913-0e1d-408d-a29f-fdadeec2565e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW2") (unit 1)
         )
@@ -5859,7 +5859,7 @@
     (pin "1" (uuid c693fa69-ff55-4624-8bca-d61ff76b7d48))
     (pin "2" (uuid 4f152e99-8f50-4fff-afb3-7c8e21183ec8))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C4") (unit 1)
         )
@@ -5899,7 +5899,7 @@
     (pin "1" (uuid c6a0dbb1-17f1-48d2-af37-462f913e296a))
     (pin "2" (uuid 050902b4-333c-42e8-beb5-c2ca3542f812))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D51") (unit 1)
         )
@@ -5929,7 +5929,7 @@
     )
     (pin "1" (uuid 5f185c47-1bd6-418b-8d00-dc2242d71919))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR05") (unit 1)
         )
@@ -5963,7 +5963,7 @@
     (pin "1" (uuid d38499f8-57e0-4fca-aee7-09e55f45be1e))
     (pin "2" (uuid aceb5e0c-65c4-4adc-980f-5ef2fcbc338d))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW67") (unit 1)
         )
@@ -5997,7 +5997,7 @@
     (pin "1" (uuid 6429381c-2106-4d9d-82cb-96307fba2d3f))
     (pin "2" (uuid 0e246e62-7dd9-4379-bd0e-6cc01a490196))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW43") (unit 1)
         )
@@ -6027,7 +6027,7 @@
     )
     (pin "1" (uuid 5879b8f5-e89c-4b1a-a835-8a15e467d02b))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR021") (unit 1)
         )
@@ -6067,7 +6067,7 @@
     (pin "1" (uuid fd15a772-9b07-48d5-ad98-e6d7332dcc9e))
     (pin "2" (uuid 8b24aacf-10ce-473b-a854-1a47391464c8))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D67") (unit 1)
         )
@@ -6101,7 +6101,7 @@
     (pin "1" (uuid 7a3a2dd2-2501-4fad-a748-52c60856dc95))
     (pin "2" (uuid 5188006b-e3f4-4c63-adb9-7a55b05cf360))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW44") (unit 1)
         )
@@ -6141,7 +6141,7 @@
     (pin "1" (uuid fe15eb3e-7541-45e9-8a59-75776dc5655e))
     (pin "2" (uuid 1bff339f-fce7-42ea-906f-7c6339994c7c))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D19") (unit 1)
         )
@@ -6181,7 +6181,7 @@
     (pin "1" (uuid f45eea88-ae63-4e0f-b743-fbf1ed9aacf0))
     (pin "2" (uuid f2411198-d6e8-4e0a-9b1b-1d20069c895c))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D53") (unit 1)
         )
@@ -6215,7 +6215,7 @@
     (pin "1" (uuid 42e21aab-d357-46b8-94f7-ac9b5d60df94))
     (pin "2" (uuid 6d22c469-95af-4fec-96e0-908146d31138))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW14") (unit 1)
         )
@@ -6255,7 +6255,7 @@
     (pin "1" (uuid 640bd00d-2c62-4366-86b1-80c53c28160a))
     (pin "2" (uuid f73ce733-94ee-4bf3-9da7-b04ef86f3b41))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D44") (unit 1)
         )
@@ -6271,10 +6271,10 @@
   (symbol (lib_id "SMF05CT1G:SMF05CT1G") (at 139.7 184.15 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6b7588e2-31f8-4279-a37b-657cbd83e694)
-    (property "Reference" "U2" (at 114.3 194.31 0)
+    (property "Reference" "U2" (at 114.3 168.91 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "SMF05CT1G" (at 114.3 191.77 0)
+    (property "Value" "SMF05CT1G" (at 114.3 171.45 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "SOT-363-6_2P2X1P35_ONS" (at 139.7 184.15 0)
@@ -6286,6 +6286,9 @@
     (property "LCSC Parts #" "C15879" (at 139.7 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "JLCPCB Rotation Offset" "180" (at 139.7 184.15 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 740b1aaa-900d-43e9-ad3a-d5926a84d10f))
     (pin "2" (uuid ef871a26-3e77-4a22-8b31-a0844cef4b1e))
     (pin "3" (uuid b344df98-abf3-45ba-b482-f56bb1d8854e))
@@ -6293,7 +6296,7 @@
     (pin "5" (uuid a0b92e92-903e-42b9-a272-e792baf506fd))
     (pin "6" (uuid 25890575-750e-4497-bd86-ea94c7dc3a35))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "U2") (unit 1)
         )
@@ -6322,7 +6325,7 @@
     (pin "1" (uuid 4f0e73ea-b31a-4a6e-a833-dec9ed7deb76))
     (pin "2" (uuid 0b9f283a-0765-4d3c-9f6e-13eceb84059f))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW32") (unit 1)
         )
@@ -6356,7 +6359,7 @@
     (pin "1" (uuid d6377018-cabc-4303-a089-fb60a70adad0))
     (pin "2" (uuid bc8109a3-214d-4cc9-8792-c8dd226c4834))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C6") (unit 1)
         )
@@ -6391,7 +6394,7 @@
     (pin "2" (uuid e0687467-741b-49cc-b34d-2d36ea0416fd))
     (pin "3" (uuid cfd9eda9-f7a0-4e52-ae8c-b1950214c456))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "U1") (unit 1)
         )
@@ -6426,7 +6429,7 @@
     (pin "1" (uuid d60feb10-26e4-4303-8623-a42c2dc98fd5))
     (pin "2" (uuid c1a9bea7-b9be-42c8-80e0-452323f982ca))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D28") (unit 1)
         )
@@ -6460,7 +6463,7 @@
     (pin "1" (uuid f24a6bdd-b1a4-489f-a4fe-1d86e3de2039))
     (pin "2" (uuid a71270b0-3862-4156-b338-67b34f70967e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW40") (unit 1)
         )
@@ -6490,7 +6493,7 @@
     )
     (pin "1" (uuid 52e569f1-8221-43b9-a152-a09c03708f58))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR035") (unit 1)
         )
@@ -6520,7 +6523,7 @@
     )
     (pin "1" (uuid b1abfed0-e8cc-4171-86a0-7355e72312c9))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR09") (unit 1)
         )
@@ -6550,7 +6553,7 @@
     )
     (pin "1" (uuid 7fde6d8f-926e-4947-97fc-44005dc72a34))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR032") (unit 1)
         )
@@ -6584,7 +6587,7 @@
     (pin "1" (uuid b378f521-df1a-4fbd-b2b3-51014308b1f1))
     (pin "2" (uuid fe461027-efab-441e-af65-bad1406f9710))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW52") (unit 1)
         )
@@ -6624,7 +6627,7 @@
     (pin "1" (uuid ac662c36-989d-4633-9b71-148c1709f3ab))
     (pin "2" (uuid e686d662-c024-4b86-906a-9369c193a783))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D11") (unit 1)
         )
@@ -6654,7 +6657,7 @@
     )
     (pin "1" (uuid b5db8a40-b5b9-4a46-a118-f6a56ed94fc4))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR027") (unit 1)
         )
@@ -6688,7 +6691,7 @@
     (pin "1" (uuid ee135c66-eca4-4327-830d-450a0d035a16))
     (pin "2" (uuid da0ff40d-711e-4dfd-84e3-76733d678503))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C12") (unit 1)
         )
@@ -6728,7 +6731,7 @@
     (pin "1" (uuid f8c7d223-c3ee-4056-bc83-06f96d233584))
     (pin "2" (uuid 5ba05669-0516-4b09-b94e-ba47e4a02474))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D60") (unit 1)
         )
@@ -6762,7 +6765,7 @@
     (pin "1" (uuid 8370bba8-f29c-46da-b6fb-4cd0c50d4554))
     (pin "2" (uuid 22d3e366-e3ad-40d8-9949-43f35731172e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "R5") (unit 1)
         )
@@ -6802,7 +6805,7 @@
     (pin "1" (uuid 663b0697-5d44-4c82-8332-6e210a38cb95))
     (pin "2" (uuid d258a255-9ee5-4b3e-9045-adc99aea1e8d))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D48") (unit 1)
         )
@@ -6836,7 +6839,7 @@
     (pin "1" (uuid 9b9b74bc-565a-4674-a9ce-453716bff39e))
     (pin "2" (uuid 5564fa57-c5ba-4971-8b98-90a9c5684f8c))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C3") (unit 1)
         )
@@ -6870,7 +6873,7 @@
     (pin "1" (uuid 02b5d1be-cc88-4fc8-b2ec-1cbf16f6e572))
     (pin "2" (uuid 65670a16-c815-4e7d-95ae-49d667e83ea7))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C15") (unit 1)
         )
@@ -6904,7 +6907,7 @@
     (pin "1" (uuid 1e48a3bd-4862-4e05-ac11-8f9e63042cc4))
     (pin "2" (uuid 02c09d1e-f5ec-47c5-843c-95d1fba2e920))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW45") (unit 1)
         )
@@ -6934,7 +6937,7 @@
     )
     (pin "1" (uuid ac818964-8d56-4580-be7c-319774f009e6))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR045") (unit 1)
         )
@@ -6964,7 +6967,7 @@
     )
     (pin "1" (uuid aee5fb1c-e00d-44af-964b-7345ab9160a8))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR018") (unit 1)
         )
@@ -7004,7 +7007,7 @@
     (pin "1" (uuid 4d3b8db9-5b1c-4631-b840-dbe829062f2a))
     (pin "2" (uuid 66b7cef1-dcac-4c56-8027-860299a1a14f))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D22") (unit 1)
         )
@@ -7038,7 +7041,7 @@
     (pin "1" (uuid 035dcfdb-c839-43a6-9d77-84c5db35c126))
     (pin "2" (uuid 0bcd9bcb-1bd8-431a-9055-fdc7fdbacc6a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C1") (unit 1)
         )
@@ -7072,7 +7075,7 @@
     (pin "1" (uuid 873bd407-bd2b-42e2-92bf-6ca99990ec27))
     (pin "2" (uuid 321afd21-8f6a-425c-9f48-b0bbbd439f3d))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW10") (unit 1)
         )
@@ -7106,7 +7109,7 @@
     (pin "1" (uuid 7a25d353-1833-4008-8952-def8322a58e4))
     (pin "2" (uuid b9c03659-9a9d-48ad-b493-70174bbdfb18))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW66") (unit 1)
         )
@@ -7140,7 +7143,7 @@
     (pin "1" (uuid a5903fa6-02c9-4846-98e0-4d3184152131))
     (pin "2" (uuid 7ee04291-403d-42f0-8599-e59deed09d30))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW53") (unit 1)
         )
@@ -7180,7 +7183,7 @@
     (pin "1" (uuid 1dfa88f9-7e0e-4721-91f3-cce12fdef930))
     (pin "2" (uuid f34abf4d-fc8e-45ec-a908-e4e2c6cf565a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D54") (unit 1)
         )
@@ -7214,7 +7217,7 @@
     (pin "1" (uuid 195b1f64-2255-4ea4-9822-d4c679fc22a5))
     (pin "2" (uuid a8e2e978-9024-4573-a466-05edd537e4e5))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C8") (unit 1)
         )
@@ -7254,7 +7257,7 @@
     (pin "1" (uuid 23e537b3-1962-4771-801f-fef20df151ba))
     (pin "2" (uuid d73cc2c0-12a1-4364-ba98-44724cbbb602))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D1") (unit 1)
         )
@@ -7288,7 +7291,7 @@
     (pin "1" (uuid 945d3c84-802d-4de9-8f0d-3839d7529fd1))
     (pin "2" (uuid 5886b860-b737-4e88-9a01-3a9f9f61b242))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C14") (unit 1)
         )
@@ -7322,7 +7325,7 @@
     (pin "1" (uuid c73d0bb1-fb77-4d54-9acf-87944b0e79db))
     (pin "2" (uuid 52f0fe8f-8394-4078-8bf9-67587a25ead1))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW33") (unit 1)
         )
@@ -7362,7 +7365,7 @@
     (pin "1" (uuid 66ecf910-dd70-424a-9548-782bfb2556ee))
     (pin "2" (uuid 49eb14ec-9d20-4dd4-be8d-f9257b2eb1c3))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D27") (unit 1)
         )
@@ -7396,7 +7399,7 @@
     (pin "1" (uuid d74327af-5ec6-4fd4-b573-7b081c83999b))
     (pin "2" (uuid 914d9c3b-7fd4-4700-afe0-c0512e5a706b))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW36") (unit 1)
         )
@@ -7430,7 +7433,7 @@
     (pin "1" (uuid 0ec440a5-8369-4f15-a41c-22c9159ee75c))
     (pin "2" (uuid 86d5b648-3220-4b09-b6ec-ff7c5376b795))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW30") (unit 1)
         )
@@ -7464,7 +7467,7 @@
     (pin "1" (uuid d6d30658-a0bc-49b8-85f7-0562b5dc3020))
     (pin "2" (uuid 810fc3dc-e1d0-41c0-a9e6-b47c13cbe122))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW19") (unit 1)
         )
@@ -7498,7 +7501,7 @@
     (pin "1" (uuid f7447521-bd7b-4bfa-808c-5127c0a827ec))
     (pin "2" (uuid 8de84dfa-58e4-43ed-9fcc-07022419df02))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C7") (unit 1)
         )
@@ -7532,7 +7535,7 @@
     (pin "1" (uuid f7f82de1-7236-4cca-9088-2a490ab48eb5))
     (pin "2" (uuid 6cce56b3-d38e-489d-943b-6808b4836d1a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW49") (unit 1)
         )
@@ -7562,7 +7565,7 @@
     )
     (pin "1" (uuid d59d950a-80c5-4a83-9edd-b515b50a50a4))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR022") (unit 1)
         )
@@ -7602,7 +7605,7 @@
     (pin "1" (uuid d92987cb-b010-4f97-8f94-b0018a97af46))
     (pin "2" (uuid de7151e9-e676-4ca4-9e7f-1de7a8299338))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D8") (unit 1)
         )
@@ -7636,7 +7639,7 @@
     (pin "1" (uuid db7d1019-f380-4b08-88a2-c2013d266bc2))
     (pin "2" (uuid 1c3da09d-6bf8-47ca-b4a0-5b5cc1e1f12a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "R4") (unit 1)
         )
@@ -7670,7 +7673,7 @@
     (pin "1" (uuid d430487d-aa4e-48e8-b033-73619f341e39))
     (pin "2" (uuid 194e7cd6-ed85-4547-8a81-80183284a3db))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW35") (unit 1)
         )
@@ -7704,7 +7707,7 @@
     (pin "1" (uuid ebaeb85e-40b6-463e-bcfb-a79f0fe961f3))
     (pin "2" (uuid 8d41330d-d442-4410-b979-70a325f76bda))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW60") (unit 1)
         )
@@ -7734,7 +7737,7 @@
     )
     (pin "1" (uuid a6858be3-6504-49ff-94f3-643a8a642bd5))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR040") (unit 1)
         )
@@ -7768,7 +7771,7 @@
     (pin "1" (uuid b9b1a54f-2211-458f-87e9-646ceea163b3))
     (pin "2" (uuid 5f4ddfa2-a754-4583-bc81-62a79381e893))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW57") (unit 1)
         )
@@ -7798,7 +7801,7 @@
     )
     (pin "1" (uuid 9032c5f0-2797-4951-9086-02f856df4189))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR06") (unit 1)
         )
@@ -7828,7 +7831,7 @@
     )
     (pin "1" (uuid 957379a2-55cb-48f3-8ecf-bf8b776a8cd4))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR01") (unit 1)
         )
@@ -7862,7 +7865,7 @@
     (pin "1" (uuid c461b4b4-cf45-4a31-84e3-fdc08b7035cf))
     (pin "2" (uuid 8d1b0178-8631-46cd-97b9-2ce0e71efb26))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW18") (unit 1)
         )
@@ -7896,7 +7899,7 @@
     (pin "1" (uuid 1c8a9b5d-f68b-4708-904d-430c4523b558))
     (pin "2" (uuid 977ab553-9dab-4152-bb11-8d3efcd62958))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW34") (unit 1)
         )
@@ -7930,7 +7933,7 @@
     (pin "1" (uuid c0b3834d-f3df-47df-8cbb-c0a9947b69ee))
     (pin "2" (uuid 594b8413-9e87-44d7-8d01-e86861fedf5a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW37") (unit 1)
         )
@@ -7964,7 +7967,7 @@
     (pin "1" (uuid 5f064d4f-f12d-4980-85cc-86ce1b0af5a9))
     (pin "2" (uuid d635603c-5689-4fdd-b27b-885414ef1fd9))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW55") (unit 1)
         )
@@ -7998,7 +8001,7 @@
     (pin "1" (uuid ea1be089-a4cd-4767-97ab-080f8e19f536))
     (pin "2" (uuid c4b5d0cf-e2e0-47ff-ab31-ae883b5cdad8))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW20") (unit 1)
         )
@@ -8032,7 +8035,7 @@
     (pin "1" (uuid 3ad2fdca-9491-4444-b30b-9fdd86a0de46))
     (pin "2" (uuid 518cec3c-3adf-4931-877b-d3bc2c346553))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "R6") (unit 1)
         )
@@ -8062,7 +8065,7 @@
     )
     (pin "1" (uuid 3e30dbba-2b71-4a34-862c-24156054f6b6))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR024") (unit 1)
         )
@@ -8096,7 +8099,7 @@
     (pin "1" (uuid ecf5a359-c3e1-41a4-9236-66e692e0056f))
     (pin "2" (uuid a0ec6396-e994-45a0-be25-0c98f3cb67fd))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW63") (unit 1)
         )
@@ -8130,7 +8133,7 @@
     (pin "1" (uuid fddcae71-b7f3-4a71-82ae-991ac364cd93))
     (pin "2" (uuid c6269bcc-6e28-44a8-b146-6f41291b88c0))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW42") (unit 1)
         )
@@ -8160,7 +8163,7 @@
     )
     (pin "1" (uuid 720c2279-1704-4b32-a974-35885f1c1c90))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR025") (unit 1)
         )
@@ -8194,7 +8197,7 @@
     (pin "1" (uuid 601c5b87-93bb-48b2-bc9c-8d25097523ac))
     (pin "2" (uuid 34c15d2a-91d8-4a16-8611-7a7d15f6c819))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "R7") (unit 1)
         )
@@ -8228,7 +8231,7 @@
     (pin "1" (uuid 2a789dff-ab37-45dd-acda-ddb4351a4568))
     (pin "2" (uuid 81fbea02-842c-4982-bdde-c52bb1f46fc5))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW38") (unit 1)
         )
@@ -8262,7 +8265,7 @@
     (pin "1" (uuid a7cab1de-6b58-457a-9993-0acc17556790))
     (pin "2" (uuid 212a2b98-6090-418e-951e-8f42166feaca))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW41") (unit 1)
         )
@@ -8302,7 +8305,7 @@
     (pin "1" (uuid ed9aa4be-1994-4d9f-82e6-420a2a59d445))
     (pin "2" (uuid 32360e5f-5fa8-461c-88f1-0156e090b6bd))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D42") (unit 1)
         )
@@ -8336,7 +8339,7 @@
     (pin "1" (uuid 290d25eb-33c4-4f10-adda-7be8e51f2e73))
     (pin "2" (uuid 463a67f0-a498-4b00-88a6-ae391ea939d1))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW50") (unit 1)
         )
@@ -8367,6 +8370,9 @@
     (property "LCSC Parts #" "C2843335" (at 123.19 251.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "JLCPCB Rotation Offset" "180" (at 142.24 257.81 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid e29a8de9-5343-47d0-9e42-e272e95ef71c))
     (pin "2" (uuid ae1e912e-6f20-4b7f-ac25-0ab24ba7b8d0))
     (pin "3" (uuid 9130da90-3c52-4c2f-96b5-9b7367b74521))
@@ -8377,7 +8383,7 @@
     (pin "8" (uuid 9ed91f0a-ae00-4f91-8627-9860daa3390b))
     (pin "9" (uuid f91f89d9-85e6-4675-b053-5d23b9eef1e7))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "U4") (unit 1)
         )
@@ -8417,7 +8423,7 @@
     (pin "1" (uuid 2dbe62e8-a6fa-462d-a5e4-fcfb4c2c6e74))
     (pin "2" (uuid f40b1678-fa74-4077-90c6-3779dfb34a17))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D36") (unit 1)
         )
@@ -8457,7 +8463,7 @@
     (pin "1" (uuid a4cd9860-2711-4f89-93f2-3016461dd44b))
     (pin "2" (uuid 9b0fd520-1d0e-4e00-b6d3-24fcb0b86add))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D7") (unit 1)
         )
@@ -8497,7 +8503,7 @@
     (pin "1" (uuid f289e8cd-1341-4e6e-bb6c-422cd8912683))
     (pin "2" (uuid 8b0a78c7-0eea-4477-a572-229da82ed9e7))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D2") (unit 1)
         )
@@ -8537,7 +8543,7 @@
     (pin "1" (uuid ebbe92a4-decc-4b52-be49-b5559a2ad3c3))
     (pin "2" (uuid 25d3495d-4d02-496f-8020-69faa5f4bcea))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D40") (unit 1)
         )
@@ -8577,7 +8583,7 @@
     (pin "1" (uuid 7fc43fe1-eee7-4a88-9226-6eeaf70f655f))
     (pin "2" (uuid 6b560fcb-3a9c-469b-a15d-14c388b63bab))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D64") (unit 1)
         )
@@ -8611,7 +8617,7 @@
     (pin "1" (uuid 8f43dd4d-99fa-4f2d-bb06-95805c99d65a))
     (pin "2" (uuid 216ea1af-a25a-4525-b77e-fdee63ac26c5))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW26") (unit 1)
         )
@@ -8651,7 +8657,7 @@
     (pin "1" (uuid 6566f141-bff1-4d89-b41b-edfa1274f95d))
     (pin "2" (uuid b3416376-1721-476d-98fd-37381d833b68))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D12") (unit 1)
         )
@@ -8691,7 +8697,7 @@
     (pin "1" (uuid 85028b92-41be-4665-ba8a-f3e92ed00a08))
     (pin "2" (uuid 7e6301e1-12e8-4ef7-bff1-a5590703090c))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D23") (unit 1)
         )
@@ -8725,7 +8731,7 @@
     (pin "1" (uuid d18c4f1b-f422-42e2-9f63-ee0064e136ea))
     (pin "2" (uuid 14e742c4-9b55-453f-aa23-3339070e529b))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW1") (unit 1)
         )
@@ -8765,7 +8771,7 @@
     (pin "1" (uuid e5648abd-dfb4-42be-80f3-2852c6175534))
     (pin "2" (uuid 6a250418-b2cc-4d8a-a42b-164be3880f23))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D21") (unit 1)
         )
@@ -8799,7 +8805,7 @@
     (pin "1" (uuid 50890577-6d89-4302-a5fa-418d9bea4093))
     (pin "2" (uuid 88c18bcc-6090-4902-a7f1-6d351344d75e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW62") (unit 1)
         )
@@ -8829,7 +8835,7 @@
     )
     (pin "1" (uuid 69d97925-6bf4-4a7e-8fca-f207b1a82216))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR011") (unit 1)
         )
@@ -8859,7 +8865,7 @@
     )
     (pin "1" (uuid 95521b57-6a28-4c9a-afdd-72c1b0118b98))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR023") (unit 1)
         )
@@ -8889,7 +8895,7 @@
     )
     (pin "1" (uuid 70bf1a89-2fd6-4ce7-a160-923ab84a9a2a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR042") (unit 1)
         )
@@ -8929,7 +8935,7 @@
     (pin "1" (uuid f8b04809-11b6-420c-995b-c5bb678592e2))
     (pin "2" (uuid 3826e46a-0ddb-41e8-8566-8b9ad2230a9e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D18") (unit 1)
         )
@@ -8959,7 +8965,7 @@
     )
     (pin "1" (uuid 78080b28-dae1-49d5-a4e6-631f0101899e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR02") (unit 1)
         )
@@ -8984,7 +8990,7 @@
     )
     (pin "1" (uuid ed81999a-b2c5-4ca7-af96-790f4654cb84))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR031") (unit 1)
         )
@@ -9018,7 +9024,7 @@
     (pin "1" (uuid 3c688990-5583-4e8c-8402-dd062aabb3ae))
     (pin "2" (uuid 5dbe8908-6836-4a35-8cef-8128f9b95a85))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW46") (unit 1)
         )
@@ -9052,7 +9058,7 @@
     (pin "1" (uuid 04db3389-febc-48f0-b836-f0e258f657b6))
     (pin "2" (uuid 4597ef79-520f-4a66-ab4c-31b78359655d))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW56") (unit 1)
         )
@@ -9086,7 +9092,7 @@
     (pin "1" (uuid 884d9ade-f1e4-4a4e-ad52-0badab69f876))
     (pin "2" (uuid 6d70bf58-a020-4f50-9b5d-97f0a1f1d221))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW17") (unit 1)
         )
@@ -9120,7 +9126,7 @@
     (pin "1" (uuid 4fc272d1-6ae5-40f4-809a-26d9bd56d667))
     (pin "2" (uuid 1c5cd169-bb43-42aa-a0f8-45ecbd02d46a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW15") (unit 1)
         )
@@ -9154,7 +9160,7 @@
     (pin "1" (uuid cf789228-a6fb-4c6a-8a8d-c03b9925829e))
     (pin "2" (uuid eaacc2ae-5d45-4371-b115-03911d96394e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW12") (unit 1)
         )
@@ -9184,7 +9190,7 @@
     )
     (pin "1" (uuid d771fffe-2273-48d8-9251-ea9aaec97fe6))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR013") (unit 1)
         )
@@ -9218,7 +9224,7 @@
     (pin "1" (uuid 1661400b-aa9f-4a63-8572-abd0f2cb0e54))
     (pin "2" (uuid 137508fb-a26e-4008-b104-5de5a076d447))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW31") (unit 1)
         )
@@ -9258,7 +9264,7 @@
     (pin "1" (uuid 6c34e9a8-f2de-4784-8ffa-dab1eaae0c8d))
     (pin "2" (uuid decb3cb6-ab0b-494e-a729-7f2ed9d7c921))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D32") (unit 1)
         )
@@ -9298,7 +9304,7 @@
     (pin "1" (uuid 77e9c78a-2cdf-4e2b-8165-c790fdacb78c))
     (pin "2" (uuid 6924efe5-9f63-48fb-bcc0-3259a7e9f44d))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D58") (unit 1)
         )
@@ -9332,7 +9338,7 @@
     (pin "1" (uuid 48a0bc50-aff5-4d39-b4df-661d1a8e200c))
     (pin "2" (uuid 1d755111-502a-4003-a6d8-ad2c36d44d2a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW5") (unit 1)
         )
@@ -9372,7 +9378,7 @@
     (pin "1" (uuid f570196e-b3dd-4942-8a6b-fc8f6d463ec8))
     (pin "2" (uuid 7319b513-feb7-4351-aecf-27c45718ab6b))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D46") (unit 1)
         )
@@ -9402,7 +9408,7 @@
     )
     (pin "1" (uuid 23bfb573-a52c-4084-a2b5-d6ed202b285a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR028") (unit 1)
         )
@@ -9436,7 +9442,7 @@
     (pin "1" (uuid 695a319e-0ff4-4b7f-9857-e4b2cb1f1fcd))
     (pin "2" (uuid 5c25e5c7-dea8-4a04-bf4e-3758517e32cd))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW23") (unit 1)
         )
@@ -9470,7 +9476,7 @@
     (pin "1" (uuid 2a210604-67ad-4fa4-9074-57cf5b866a17))
     (pin "2" (uuid 51ee55f0-10db-4839-9d51-af13aea12db5))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW22") (unit 1)
         )
@@ -9504,7 +9510,7 @@
     (pin "1" (uuid f276d8f7-f781-4510-a582-f7f9bf0c3e5e))
     (pin "2" (uuid e5e4bc7b-dd6e-42c4-b92f-cf9339403a8e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW28") (unit 1)
         )
@@ -9538,7 +9544,7 @@
     (pin "1" (uuid af5ae6c3-17f1-4fb3-ad91-9212ef7fbba9))
     (pin "2" (uuid a80b9a88-c041-4da9-b446-7d2b2092e8b4))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW47") (unit 1)
         )
@@ -9572,7 +9578,7 @@
     (pin "1" (uuid 3f355b4e-21cb-44d1-a586-7c6bf87ec7bb))
     (pin "2" (uuid 5c825a62-4975-4caf-84bf-d9afc376ad17))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW27") (unit 1)
         )
@@ -9612,7 +9618,7 @@
     (pin "1" (uuid a47c27c6-bf3e-4ee2-8464-0882decb89d4))
     (pin "2" (uuid 158b160b-cf2e-482d-a2fb-06e2d68acdbc))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D41") (unit 1)
         )
@@ -9652,7 +9658,7 @@
     (pin "1" (uuid 4441fd21-60f5-403e-8c6a-10cf271f7a20))
     (pin "2" (uuid 00de6710-0c9b-4385-9b66-27051286b3f7))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D16") (unit 1)
         )
@@ -9692,7 +9698,7 @@
     (pin "1" (uuid a5bad4e9-540a-485e-91f3-48fb37f5219b))
     (pin "2" (uuid a56756e0-7bd1-4962-baa3-e43bbc0d864a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D10") (unit 1)
         )
@@ -9732,7 +9738,7 @@
     (pin "1" (uuid 285f11f3-c563-4fa6-81a7-308fabe4caef))
     (pin "2" (uuid b423d92e-3fd5-45c1-af1b-34458e7f79d6))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D25") (unit 1)
         )
@@ -9772,7 +9778,7 @@
     (pin "1" (uuid 69c44d13-c9ab-4e07-850e-5e1a0137717e))
     (pin "2" (uuid 2fcdd42c-d30a-45b2-8b33-097178cebf33))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D34") (unit 1)
         )
@@ -9802,7 +9808,7 @@
     )
     (pin "1" (uuid 563a6caf-5a7d-45d5-bd28-e678ca8dde6d))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR029") (unit 1)
         )
@@ -9842,7 +9848,7 @@
     (pin "1" (uuid a50074e3-aa62-4159-9016-74428cc9df57))
     (pin "2" (uuid 710e4519-c208-450b-ae38-99f5be95f316))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D33") (unit 1)
         )
@@ -9876,7 +9882,7 @@
     (pin "1" (uuid d5c66310-5e6c-470e-89f9-0aa2335ccbe0))
     (pin "2" (uuid db0e52c1-3374-4327-bad8-0aacc92e39df))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW64") (unit 1)
         )
@@ -9910,7 +9916,7 @@
     (pin "1" (uuid d97d3eff-04d1-41a0-b317-a2656d32e71d))
     (pin "2" (uuid db247532-ba0a-4543-b3a9-d942ce1e2d98))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "R8") (unit 1)
         )
@@ -9944,7 +9950,7 @@
     (pin "1" (uuid cd7eac9f-23d3-484f-ba66-b2f044d6dcda))
     (pin "2" (uuid cd28138b-580b-4b00-81dd-35d05facc82a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW54") (unit 1)
         )
@@ -9974,7 +9980,7 @@
     )
     (pin "1" (uuid b1e26081-7f73-4eab-8bdc-011ed6ff6508))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR041") (unit 1)
         )
@@ -10008,7 +10014,7 @@
     (pin "1" (uuid 5f6e9933-8ef9-4aa0-9373-ad0fddd69378))
     (pin "2" (uuid 7e919356-ac14-4402-99d6-39ebcff36731))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C10") (unit 1)
         )
@@ -10048,7 +10054,7 @@
     (pin "1" (uuid d0a163dd-f8c0-4d71-8e06-e970b79361e5))
     (pin "2" (uuid 06469740-2698-4a6a-95b2-54ff25979a82))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D6") (unit 1)
         )
@@ -10088,7 +10094,7 @@
     (pin "1" (uuid 920206e5-bcfd-4b31-9b3a-d975f14016eb))
     (pin "2" (uuid b011a1af-57ba-4e16-b9a1-01a3f8110b87))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D31") (unit 1)
         )
@@ -10118,7 +10124,7 @@
     )
     (pin "1" (uuid ad1ee578-24c7-48ed-b46a-86552eae0d7f))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR037") (unit 1)
         )
@@ -10158,7 +10164,7 @@
     (pin "1" (uuid 2b2d08d8-580d-4dd6-9a02-ddf381e33d0f))
     (pin "2" (uuid e277d159-f566-4469-bf98-128070eb8573))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D55") (unit 1)
         )
@@ -10198,7 +10204,7 @@
     (pin "1" (uuid db8ec36f-774b-4a22-a0d6-43e4f7284f6a))
     (pin "2" (uuid f41ccdec-ec7a-49ec-9640-6cdda2b30f42))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D4") (unit 1)
         )
@@ -10232,7 +10238,7 @@
     (pin "1" (uuid c3050ec7-7ff5-4327-bf8a-162625ce4c03))
     (pin "2" (uuid 59204f74-c6f8-4fb0-be57-609c759a514f))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW24") (unit 1)
         )
@@ -10266,7 +10272,7 @@
     (pin "1" (uuid b4537bdb-d532-4111-b4f5-5b92e204ea1d))
     (pin "2" (uuid a7f4619e-b5e6-4b0b-acaf-1dea9230bb2a))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "C11") (unit 1)
         )
@@ -10306,7 +10312,7 @@
     (pin "1" (uuid 0f56adaa-85d7-4faa-9224-7dbdbcbfd418))
     (pin "2" (uuid 34796a11-8ba4-49cd-ae72-148e07654750))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D20") (unit 1)
         )
@@ -10346,7 +10352,7 @@
     (pin "1" (uuid aeffe91d-a3d7-4a9f-9614-1c0f155e3fea))
     (pin "2" (uuid 2511030c-149f-4157-87d5-5f1ff2f78228))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D38") (unit 1)
         )
@@ -10386,7 +10392,7 @@
     (pin "1" (uuid fff03f50-2d89-4836-b9ef-ace4651c8e54))
     (pin "2" (uuid 8510980d-d51d-4c7b-8abb-c79f27f6ce84))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D30") (unit 1)
         )
@@ -10420,7 +10426,7 @@
     (pin "1" (uuid 42a90c25-65f0-45a4-b1f3-629e7272816e))
     (pin "2" (uuid 47893d0f-5ae0-4d4b-8eb1-287143171293))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW16") (unit 1)
         )
@@ -10460,7 +10466,7 @@
     (pin "1" (uuid 497e775d-330b-4221-834a-e0adb60561a1))
     (pin "2" (uuid afa223be-cf47-4452-9316-cef6b4d2e29e))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "D24") (unit 1)
         )
@@ -10494,7 +10500,7 @@
     (pin "1" (uuid 3821d11c-4952-4bfa-8d87-7792c0cada5d))
     (pin "2" (uuid 70068f63-46fe-4278-8ce1-a61f178af720))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "SW51") (unit 1)
         )
@@ -10524,7 +10530,7 @@
     )
     (pin "1" (uuid ee1f138b-4110-4958-8b2f-93921db23e72))
     (instances
-      (project "YM60"
+      (project "YM60JIS"
         (path "/3d120d70-8016-4f25-b980-ad33d03c9704"
           (reference "#PWR036") (unit 1)
         )
