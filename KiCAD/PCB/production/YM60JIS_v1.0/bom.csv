@@ -1,4 +1,6 @@
-Designator,Footprint,Quantity,Value,LCSC Part #
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+_2,PKRH,1,,
+,PKRH,1,>VALUE,
 BTN1,SW_Push_1P1T_XKB_TS-1187A,1,TS-1187A-B-A-B,
 "C1, C2",0402,2,10uF,
 "C10, C13, C16, C17, C3, C4, C5, C6, C7, C8, C9",0402,11,100nF,
