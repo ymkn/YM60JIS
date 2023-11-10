@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kbd_SW_Hole")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/KiCAD_FootPrint-master/kbd_SW_Hole")(options "")(descr ""))
+  (lib (name "kbd_Hole")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/KiCAD_FootPrint-master/kbd_Hole")(options "")(descr ""))
+)
