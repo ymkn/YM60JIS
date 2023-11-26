@@ -10,7 +10,7 @@ You can customize the layout with [Vial](https://get.vial.today/) configurator.
 
 ![YM60JIS Layout](image/ym60jis_layout.png)
 
-Spacebar can be swappable 3u to 2.25/2.75u with 2u stabilizers if you don't have 3u spacebar and its stabilizers.
+Spacebar can be swap 3u to 2.25/2.75u with 2u stabilizers if you don't have 3u spacebar and its stabilizers.
 
 ## Specification
 
@@ -20,6 +20,10 @@ Spacebar can be swappable 3u to 2.25/2.75u with 2u stabilizers if you don't have
 - Dimension: 285mm(w) x 94.6mm(h) x 1.6mm(d)
 - Suitable for most 60% keyboard cases
   - Warning: center and right bottom mounting holes are not implemented.
+
+## Build Guide
+
+See [doc/buildguide.md](doc/buildguide.md)
 
 ## LICENSE
 
