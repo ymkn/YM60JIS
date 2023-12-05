@@ -147,6 +147,3 @@ https://github.com/ymkn/YM60JIS/blob/main/firmware/QMK/ymkn_ym60jis_vial.uf2
 
 https://github.com/ymkn/YM60JIS
 
-### 5.4 VIA / Remapへの対応
-
-対応していません。対応予定もありません。
