@@ -20,8 +20,8 @@
     "url": "https://github.com/ymkn/YM60JIS",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x1209",
-        "vid": "0x2AF6"
+        "pid": "0x2AF6",
+        "vid": "0x1209"
     },
     "layouts": {
         "LAYOUT_ym60jis": {
