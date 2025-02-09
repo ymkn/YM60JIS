@@ -1,25 +1,25 @@
 # KiCAD source files
 
-## KiCAD version
+## Requirements
 
-7.x or higher is required.
+KiCAD 8.x or higher
 
-## dependencies
+## Dependencies
 
-### KiCAD Official Repository
+### Package Manager Libraries
 
-Install from Plugin and Contents manager.
+Install the following library from KiCAD Package Manager:
 
-- Keyswitch Kicad Library com.github.perigoso.keyswitch-kicad-library
-  - KeySwitch, Stabs
+- marbastlib (https://github.com/ebastler/marbastlib)
+  - Install via external ebastler KiCAD repository or from file
 
 ### External libraries
 
-These are included as submodules.
+The following libraries are included as submodules:
 
-- https://github.com/crides/kleeb
-  - rp2040-zero
-- https://github.com/Salicylic-acid3/KiCAD_FootPrint
-  - Keyswitch hole, stab hole
-- https://github.com/komar007/gh60.git
-  - Mounting hole
+- kleeb (github.com/crides/kleeb)
+  - Components: rp2040-zero
+- KiCAD_FootPrint (github.com/Salicylic-acid3/KiCAD_FootPrint)
+  - Components: Keyswitch hole, stabilizer hole
+- gh60 (github.com/komar007/gh60)
+  - Components: Mounting hole
