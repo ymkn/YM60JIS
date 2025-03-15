@@ -16,9 +16,9 @@
     },
     "selection_filter": {
       "dimensions": false,
-      "footprints": true,
+      "footprints": false,
       "graphics": false,
-      "keepouts": false,
+      "keepouts": true,
       "lockedItems": true,
       "otherItems": false,
       "pads": false,
@@ -57,13 +57,14 @@
       29,
       30,
       32,
+      33,
       34,
       35,
       36,
       40
     ],
     "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "git": {
     "repo_password": "",
