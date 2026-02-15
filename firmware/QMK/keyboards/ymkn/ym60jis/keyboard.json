@@ -2,6 +2,7 @@
     "manufacturer": "ymkn",
     "keyboard_name": "YM60JIS",
     "maintainer": "ymkn",
+    "board": "GENERIC_RP_RP2040",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
@@ -24,7 +25,7 @@
         "vid": "0x1209"
     },
     "layouts": {
-        "LAYOUT_ym60jis": {
+        "LAYOUT": {
             "layout": [
                 {"matrix": [0, 0], "x": 0, "y": 0},
                 {"matrix": [0, 1], "x": 1, "y": 0},
